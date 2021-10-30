@@ -1,3 +1,4 @@
 # AIML Michelle Lozano
-Codes
-Hi, this is the repository for  AIML codes.
+Hallo, Hello, Ciao, Dzień dobry, Aloha, Olá, Hola
+
+Welcome to my shared repository for  AIML codes.
